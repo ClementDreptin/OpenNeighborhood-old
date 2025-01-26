@@ -6,6 +6,8 @@
 
 Cross-platform clone of Xbox 360 Neighborhood.
 
+**This project has been archived due to lack of stability and complexity of installation of the application. Please consider using the [web-based rewrite instead](https://github.com/ClementDreptin/OpenNeighborhood).**
+
 ## Screenshots
 
 Home | Root of Hdd
