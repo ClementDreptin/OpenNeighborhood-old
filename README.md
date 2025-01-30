@@ -1,4 +1,4 @@
-[![Build status](https://github.com/ClementDreptin/OpenNeighborhood/actions/workflows/build.yml/badge.svg)](https://github.com/ClementDreptin/OpenNeighborhood/actions/workflows/build.yml)
+[![Build status](https://github.com/ClementDreptin/OpenNeighborhood-old/actions/workflows/build.yml/badge.svg)](https://github.com/ClementDreptin/OpenNeighborhood-old/actions/workflows/build.yml)
 
 # OpenNeighborhood
 
